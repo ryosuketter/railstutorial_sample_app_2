@@ -43,8 +43,6 @@ $ bin/rails s
 cd /Users/ryosuke/Project/railstutorial/sample_app_2
 ```
 
-#
-
 # Study record
 
 ## 2019/01/06
