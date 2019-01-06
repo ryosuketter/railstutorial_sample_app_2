@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * Ruby version
 
+ruby 2.5.1
+
 * System dependencies
 
 * Configuration
@@ -21,13 +23,13 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
 # directly on this project
 
 ```bash
 cd /Users/ryosuke/Project/railstutorial/sample_app_2
 ```
+
+#
 
 # Study record
 
