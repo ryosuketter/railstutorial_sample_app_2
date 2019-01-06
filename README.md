@@ -47,6 +47,6 @@ cd /Users/ryosuke/Project/railstutorial/sample_app_2
 
 ## 2019/01/06
 
-やったこと 第3章 「静的ページの作成とテストの作成」
-次回は
+やったこと 第3章 「静的ページの作成とテストの作成」  
+次回は  
 URL https://railstutorial.jp/chapters/static_pages?version=5.1#sec-refactor
