@@ -22,3 +22,17 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# directly on this project
+
+```bash
+cd /Users/ryosuke/Project/railstutorial/sample_app_2
+```
+
+# Study record
+
+## 2019/01/06
+
+やったこと 第3章 「」
+次回は
+URL
