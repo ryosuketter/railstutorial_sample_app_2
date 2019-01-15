@@ -56,3 +56,10 @@ URL https://railstutorial.jp/chapters/static_pages?version=5.1#sec-refactor
 やったこと 第3章 「Minitest実装体験」  
 次回は  
 URL https://railstutorial.jp/chapters/static_pages?version=5.1#sec-refactor
+
+## 2019/01/15
+
+やったこと 第4章 「オブジェクトとメッセージ受け渡し」  
+次回は  
+URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-objects_and_message_passing
+
