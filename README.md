@@ -63,3 +63,9 @@ URL https://railstutorial.jp/chapters/static_pages?version=5.1#sec-refactor
 次回は  
 URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-objects_and_message_passing
 
+## 2019/01/16
+
+やったこと 第4章 「文字列いじりusing ruby」  
+次回は  
+URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-blocks
+
