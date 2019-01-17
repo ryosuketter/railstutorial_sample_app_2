@@ -69,3 +69,8 @@ URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-object
 次回は  
 URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-blocks
 
+## 2019/01/17
+
+やったこと 第4章 「オブジェクト」  
+次回は  
+URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-a_class_of_our_own
