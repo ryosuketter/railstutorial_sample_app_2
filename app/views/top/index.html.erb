@@ -1,0 +1,12 @@
+<h1>TOP / index</h1>
+
+<ul>
+  <% @authos.each do |author| %>
+  <li><%= author.name %>(<%= author.books.size %>)</li>
+  <ul>
+    <% author.books.each do |book| %>
+      <li><%= book.name %></li>
+    <% end %>
+  </ul>
+  <% end %>
+</ul>
