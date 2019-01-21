@@ -74,3 +74,9 @@ URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-blocks
 やったこと 第4章 「オブジェクト」  
 次回は  
 URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-a_class_of_our_own
+
+## 2019/01/21
+
+やったこと 第4章 「クラスの定義や継承」  
+次回は  
+URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-a_controller_class
