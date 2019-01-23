@@ -80,3 +80,9 @@ URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-a_clas
 やったこと 第4章 「クラスの定義や継承」  
 次回は  
 URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-a_controller_class
+
+## 2019/01/23
+
+やったこと 第4章 「4章完了」  
+次回は  
+URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#cha-filling_in_the_layout
