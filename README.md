@@ -86,3 +86,9 @@ URL https://railstutorial.jp/chapters/rails_flavored_ruby?version=5.1#sec-a_cont
 やったこと 第4章 「4章完了」  
 次回は  
 URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#cha-filling_in_the_layout
+
+## 2019/01/24
+
+やったこと 第5章 「5章アセットパイプラインまで」  
+次回は  
+URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-sass_and_the_asset_pipeline
