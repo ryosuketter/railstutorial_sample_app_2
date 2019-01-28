@@ -92,3 +92,9 @@ URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#cha-fill
 やったこと 第5章 「5章アセットパイプラインまで」  
 次回は  
 URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-sass_and_the_asset_pipeline
+
+## 2019/01/24
+
+やったこと 第5章 「5.3.3 名前付きルート」  
+次回は  
+URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-named_routes
