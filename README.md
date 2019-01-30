@@ -98,3 +98,9 @@ URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-sass
 やったこと 第5章 「5.3.3 名前付きルート」  
 次回は  
 URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-named_routes
+
+## 2019/01/30
+
+やったこと 第5章 「5.4 ユーザー登録: 最初のステップ」  
+次回は  
+URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-user_signup
