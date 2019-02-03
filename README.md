@@ -110,3 +110,9 @@ URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-user
 やったこと 第5章 「Usersコントローラ作成」  
 次回は  
 URL https://railstutorial.jp/chapters/modeling_users?version=5.1#cha-modeling_users
+
+## 2019/02/3
+
+やったこと 第6章 「6.1.2 modelファイルから」  
+次回は  
+URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-the_model_file
