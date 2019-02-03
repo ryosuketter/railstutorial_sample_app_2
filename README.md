@@ -104,3 +104,9 @@ URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-name
 やったこと 第5章 「5.4 ユーザー登録: 最初のステップ」  
 次回は  
 URL https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#sec-user_signup
+
+## 2019/02/3
+
+やったこと 第5章 「Usersコントローラ作成」  
+次回は  
+URL https://railstutorial.jp/chapters/modeling_users?version=5.1#cha-modeling_users
