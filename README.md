@@ -116,3 +116,9 @@ URL https://railstutorial.jp/chapters/modeling_users?version=5.1#cha-modeling_us
 やったこと 第6章 「6.1.2 modelファイルから」  
 次回は  
 URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-the_model_file
+
+## 2019/02/4
+
+やったこと 第6章 「6.2 ユーザーを検証する まで」  
+次回は  
+URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-user_validations
