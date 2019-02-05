@@ -125,6 +125,6 @@ URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-user_valida
 
 ## 2019/02/5
 
-やったこと 第6章 「6.2.3 長さを検証する まで」  
+やったこと 第6章 「6.2.4 フォーマットを検証する まで」  
 次回は  
-URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-length_validation
+URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-format_validation
