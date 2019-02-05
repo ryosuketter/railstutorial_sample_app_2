@@ -122,3 +122,9 @@ URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-the_model_f
 やったこと 第6章 「6.2 ユーザーを検証する まで」  
 次回は  
 URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-user_validations
+
+## 2019/02/5
+
+やったこと 第6章 「6.2.3 長さを検証する まで」  
+次回は  
+URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-length_validation
