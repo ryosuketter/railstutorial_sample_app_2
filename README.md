@@ -128,3 +128,9 @@ URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-user_valida
 やったこと 第6章 「6.2.4 フォーマットを検証する まで」  
 次回は  
 URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-format_validation
+
+## 2019/02/6
+
+やったこと 第6章 「6.3 セキュアなパスワードを追加する まで」  
+次回は  
+URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-adding_a_secure_password
