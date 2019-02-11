@@ -134,3 +134,11 @@ URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-format_vali
 やったこと 第6章 「6.3 セキュアなパスワードを追加する まで」  
 次回は  
 URL https://railstutorial.jp/chapters/modeling_users?version=5.1#sec-adding_a_secure_password
+
+## 2019/02/11
+
+Railsチュートリアル の第6章を走破しました！
+次回は  
+URL https://railstutorial.jp/chapters/sign_up?version=5.1#cha-sign_up
+
+
