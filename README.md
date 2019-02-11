@@ -141,4 +141,10 @@ Railsチュートリアル の第6章を走破しました！
 次回は  
 URL https://railstutorial.jp/chapters/sign_up?version=5.1#cha-sign_up
 
+## 2019/02/11
+
+やったこと 第6章 「7.1.3 debuggerメソッド まで」  
+次回は  
+URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-debugger
+
 
