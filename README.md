@@ -147,4 +147,10 @@ URL https://railstutorial.jp/chapters/sign_up?version=5.1#cha-sign_up
 次回は  
 URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-debugger
 
+## 2019/02/13
+
+やったこと 第7章 「7.3 ユーザー登録失敗 まで」  
+次回は  
+URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-unsuccessful_signups
+
 
