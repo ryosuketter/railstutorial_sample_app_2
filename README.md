@@ -153,4 +153,10 @@ URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-debugger
 次回は  
 URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-unsuccessful_signups
 
+## 2019/02/14
+
+やったこと 第7章 「7.3.4 失敗時のテスト まで」  
+次回は  
+URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-a_test_for_invalid_submission
+
 

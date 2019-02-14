@@ -1,0 +1,72 @@
+extend _includes/_layout
+append variables
+  //- Required
+  - var pageTitle= "株式会社フタバ化学｜ボディソープ・ヘアケア商品メーカー｜名古屋";
+  - var pageDescription= "リゾートホテル・旅館向け向けに、ボディソープをはじめ、シャンプー、リンス、トリートメントのヘアケア商品やスキンケア商品など、天然原料にこだわった商品を開発、製造しています。";
+  - var pageKeywords= "株式会社フタバ化学,ボディソープ・ヘアケア商品メーカー,名古屋";
+  //- Optional
+  - var pageOgpTitle= "株式会社フタバ化学｜ボディソープ・ヘアケア商品メーカー｜名古屋";
+  //- - var pageOgpImage= site.ogpImage
+  - var pageOgpType= "website";
+  //- Not modified
+  - var pageUrl= "index.html";
+
+block meta
+  +meta('./')
+
+block header
+  +header('./')
+
+block content
+  //- contents
+
+  //- コンテンツ全体
+  .top-Contents_Wrapper
+
+    //- メインビジュアル
+    .top-Mv_Wrapper
+      .top-Mv
+        .top-Mv_Inner
+          h1
+            img(src='./assets/img/top/logo-mv.svg', alt='フタバ化学 リーブルアロエ ロゴ')
+
+    //- スライダー
+    .top-Slider_Wrapper
+      .top-Slider
+        .top-Slider_Inner
+          .slider
+            .slider-Detail
+              a(href='https://www.futaba-chemical.co.jp/page04/subject4.html')
+                img(src='./assets/img/top/top-slider_01_min.png', alt='フタバ化学 アロエシオ 実感！つるすべ美白！')
+            .slider-Detail
+              a(href='https://www.futaba-chemical.co.jp/page04/index.html')
+                img(src='./assets/img/top/top-slider_02_min.jpg', alt='フタバ化学 和び旅')
+            .slider-Detail
+              a(href='https://www.futaba-chemical.co.jp/page04/subject4.html')
+                img(src='./assets/img/top/top-slider_03_min.jpg', alt='フタバ化学 new アロエシオぷち プチサイズ')
+            //- .slider-Detail
+            //-   a(href='https://www.futaba-chemical.co.jp/page04/subject1.html')
+            //-     img(src='./assets/img/top/top-slider_04_min.png', alt='フタバ化学 リーブルアロエ ロゴ')
+
+    //- リンク
+    .top-Link_Wrapper
+      .top-Link
+        .top-Link_Inner
+          ul
+            li
+              a(href='https://www.futaba-chemical.co.jp/page05/index.html') 会社概要
+            li
+              a(href='https://www.futaba-chemical.co.jp/page04/index.html') 取り扱い商品
+            li
+              a(href='./ob/') オリジナルブランド<br class="hidden_SP">(OEM)
+            li
+              a(href='https://futaba-chemical.sakura.ne.jp/inquiry/estisam.html') 見積りサンプル<br class="hidden_SP">お問い合わせ
+
+block footer
+  +footer('./')
+
+block sp_nav
+  +sp_nav('./')
+
+block script
+  +script('./')
