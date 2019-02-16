@@ -68,4 +68,6 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'rails-controller-testing'
 gem 'bcrypt',         '3.1.12'
 
+# RailsアプリでER図とかクラス図を作る
+# https://qiita.com/zaru/items/8227686ebee9f519985b
 gem "rails-erd"
