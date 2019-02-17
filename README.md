@@ -159,4 +159,10 @@ URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-unsuccessful_signu
 次回は  
 URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-a_test_for_invalid_submission
 
+## 2019/02/17
+
+やったこと 第7章 「第7章 完了」  
+次回は  
+URL https://railstutorial.jp/chapters/basic_login?version=5.1#cha-basic_login
+
 
