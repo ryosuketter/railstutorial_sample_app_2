@@ -165,4 +165,10 @@ URL https://railstutorial.jp/chapters/sign_up?version=5.1#sec-a_test_for_invalid
 次回は  
 URL https://railstutorial.jp/chapters/basic_login?version=5.1#cha-basic_login
 
+## 2019/02/18
+
+やったこと 第8章 「8.2 ログイン まで」  
+次回は  
+URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-logging_in
+
 
