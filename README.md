@@ -172,3 +172,10 @@ URL https://railstutorial.jp/chapters/basic_login?version=5.1#cha-basic_login
 URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-logging_in
 
 
+## 2019/02/18
+
+やったこと 第8章 「8.2.4 レイアウトの変更をテストする まで」  
+次回は  
+URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-testing_layout_changes
+
+
