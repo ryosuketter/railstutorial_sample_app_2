@@ -34,5 +34,6 @@ class UsersSignupTest < ActionDispatch::IntegrationTest
     assert flash.present?
     assert_not flash.empty?
     assert_select 'div.alert-success', "ようこそSample Appへ"
+    assert is_logged_in?
   end
 end

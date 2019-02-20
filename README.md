@@ -178,4 +178,10 @@ URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-logging_in
 次回は  
 URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-testing_layout_changes
 
+## 2019/02/20
+
+やったこと 第8章 「8.3 ログアウト まで」  
+次回は  
+URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-logging_out
+
 
