@@ -184,4 +184,10 @@ URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-testing_layout
 次回は  
 URL https://railstutorial.jp/chapters/basic_login?version=5.1#sec-logging_out
 
+## 2019/02/25
+
+やったこと 第8章 「第8章 完了」  
+次回は  
+URL https://railstutorial.jp/chapters/advanced_login?version=5.1#cha-advanced_login
+
 
