@@ -195,3 +195,9 @@ URL https://railstutorial.jp/chapters/advanced_login?version=5.1#cha-advanced_lo
 やったこと 第8章 「9.1.2 ログイン状態の保持 まで」  
 次回は  
 URL https://railstutorial.jp/chapters/advanced_login?version=5.1#sec-login_with_remembering
+
+## 2019/02/25
+
+やったこと 第8章 「9.1.3 ユーザーを忘れる まで」  
+次回は  
+URL https://railstutorial.jp/chapters/advanced_login?version=5.1#sec-forgetting_users
