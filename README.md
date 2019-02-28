@@ -207,3 +207,9 @@ URL https://railstutorial.jp/chapters/advanced_login?version=5.1#sec-forgetting_
 やったこと 第9章 「9.2 [Remember me] チェックボックス まで」  
 次回は  
 URL https://railstutorial.jp/chapters/advanced_login?version=5.1#sec-remember_me_checkbox
+
+## 2019/02/28
+
+やったこと 第9章 「9.3 [Remember me] のテスト まで」  
+次回は  
+URL https://railstutorial.jp/chapters/advanced_login?version=5.1#sec-remember_tests
