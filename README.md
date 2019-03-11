@@ -226,3 +226,9 @@ URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#ch
 次回は  
 URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-testing_unsuccessful_edits
 
+## 2019/03/11
+
+やったこと 第10章 「10.2.3 フレンドリーフォワーディング まで」  
+次回は  
+URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-friendly_forwarding
+
