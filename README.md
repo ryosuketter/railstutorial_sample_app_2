@@ -232,3 +232,9 @@ URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#se
 次回は  
 URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-friendly_forwarding
 
+## 2019/03/12
+
+やったこと 第11章 「10.3 すべてのユーザーを表示する まで」  
+次回は  
+URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-showing_all_users
+
