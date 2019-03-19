@@ -234,7 +234,13 @@ URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#se
 
 ## 2019/03/12
 
-やったこと 第11章 「10.3 すべてのユーザーを表示する まで」  
+やったこと 第10章 「10.3 すべてのユーザーを表示する まで」  
 次回は  
 URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-showing_all_users
+
+## 2019/03/19
+
+やったこと 第10章 「10.3.5 パーシャルのリファクタリング まで」  
+次回は  
+URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-partial_refactoring
 

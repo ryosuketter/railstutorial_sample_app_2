@@ -5,8 +5,11 @@ ruby '2.5.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
+
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# https://qiita.com/Kta-M/items/254a1ba141827a989cb7
+gem 'sqlite3', '~> 1.3.6'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
@@ -69,6 +72,9 @@ gem 'rack-mini-profiler', require: false
 gem 'bootstrap-sass', '3.3.7'
 gem 'rails-controller-testing'
 gem 'bcrypt',         '3.1.12'
+gem 'faker',          '1.7.3'
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
 
 # RailsアプリでER図とかクラス図を作る
 # https://qiita.com/zaru/items/8227686ebee9f519985b
