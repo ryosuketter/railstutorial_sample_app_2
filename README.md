@@ -244,7 +244,7 @@ URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#se
 次回は  
 URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-partial_refactoring
 
-## 2019/03/20
+## 2019/03/21
 
 やったこと 第10章 「10.4 ユーザーを削除する まで」  
 次回は  
