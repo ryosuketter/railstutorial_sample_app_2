@@ -261,3 +261,9 @@ URL https://railstutorial.jp/chapters/account_activation?version=5.1#cha-account
 やったこと 第11章 「第11章 まで」  
 次回は  
 URL https://railstutorial.jp/chapters/password_reset?version=5.1#cha-password_reset
+
+## 2019/03/28
+
+やったこと 第12章 「第12章 まで」  
+次回は  
+URL https://railstutorial.jp/chapters/user_microposts?version=5.1#cha-user_microposts
