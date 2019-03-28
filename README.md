@@ -250,3 +250,8 @@ URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#se
 次回は  
 URL https://railstutorial.jp/chapters/updating_and_deleting_users?version=5.1#sec-deleting_users
 
+## 2019/03/21
+
+やったこと 第10章 「第10章 まで」  
+次回は  
+URL https://railstutorial.jp/chapters/account_activation?version=5.1#cha-account_activation
