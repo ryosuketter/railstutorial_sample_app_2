@@ -267,3 +267,9 @@ URL https://railstutorial.jp/chapters/password_reset?version=5.1#cha-password_re
 やったこと 第12章 「第12章 まで」  
 次回は  
 URL https://railstutorial.jp/chapters/user_microposts?version=5.1#cha-user_microposts
+
+## 2019/03/30
+
+やったこと 第13章 「13.1.2 Micropostのバリデーション まで」  
+次回は  
+URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-micropost_validations
