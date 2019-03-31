@@ -273,3 +273,9 @@ URL https://railstutorial.jp/chapters/user_microposts?version=5.1#cha-user_micro
 やったこと 第13章 「13.1.2 Micropostのバリデーション まで」  
 次回は  
 URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-micropost_validations
+
+## 2019/03/31
+
+やったこと 第13章 「13.1.3 User/Micropostの関連付け まで」  
+次回は  
+URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-user_micropost_associations
