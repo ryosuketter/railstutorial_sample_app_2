@@ -285,3 +285,9 @@ URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-user_micro
 やったこと 第13章 「13.1.4 マイクロポストを改良する まで」  
 次回は  
 URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-ordering_and_dependency
+
+## 2019/04/1
+
+やったこと 第13章 「13.1.4 マイクロポストを改良する まで」  
+次回は  
+URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-showing_microposts
