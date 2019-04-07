@@ -303,3 +303,18 @@ URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-manipulati
 やったこと 第13章 「13.4 マイクロポストの画像投稿 まで」  
 次回は  
 URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-micropost_images
+
+
+## 2019/04/7
+
+やったこと 第13章 「第13章 まで」  
+次回は  
+URL https://railstutorial.jp/chapters/following_users?version=5.1#cha-following_users
+
+一応完了！残すは、良いね！機能のみ！
+でも、画像をなぜか表示できない。。。
+テストもうまくいかないので、全部終わったら見てみる。
+[todo] 画像を表示できない
+https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-micropost_images
+[todo]←演習2はスルーした
+https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-exercises_basic_image_upload
