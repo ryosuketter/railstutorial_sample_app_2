@@ -297,3 +297,9 @@ URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-showing_mi
 やったこと 第13章 「13.3 マイクロポストを操作する まで」  
 次回は  
 URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-manipulating_microposts
+
+## 2019/04/7
+
+やったこと 第13章 「13.4 マイクロポストの画像投稿 まで」  
+次回は  
+URL https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-micropost_images
