@@ -318,3 +318,9 @@ URL https://railstutorial.jp/chapters/following_users?version=5.1#cha-following_
 https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-micropost_images
 [todo]←演習2はスルーした
 https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-exercises_basic_image_upload
+
+## 2019/04/8
+
+やったこと 第14章 「14.1.4 フォローしているユーザー まで」  
+次回は  
+URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-following

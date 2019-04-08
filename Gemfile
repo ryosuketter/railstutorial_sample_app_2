@@ -81,3 +81,5 @@ gem 'bootstrap-will_paginate', '1.0.0'
 # RailsアプリでER図とかクラス図を作る
 # https://qiita.com/zaru/items/8227686ebee9f519985b
 gem "rails-erd"
+
+gem 'rb-readline'
