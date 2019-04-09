@@ -324,3 +324,9 @@ https://railstutorial.jp/chapters/user_microposts?version=5.1#sec-exercises_basi
 やったこと 第14章 「14.1.4 フォローしているユーザー まで」  
 次回は  
 URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-following
+
+## 2019/04/9
+
+やったこと 第14章 「14.2 [Follow] のWebインターフェイス まで」  
+次回は  
+URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_web_interface_for_following_and_followers
