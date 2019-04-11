@@ -336,3 +336,9 @@ URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_web_inte
 やったこと 第14章 「14.2.4 [Follow] ボタン (基本編) まで」  
 次回は  
 URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_working_follow_button_the_standard_way
+
+## 2019/04/12
+
+やったこと 第14章 「14.2.5 [Follow] ボタン (Ajax編) まで」  
+次回は  
+URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_working_follow_button_with_ajax
