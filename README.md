@@ -330,3 +330,9 @@ URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-following
 やったこと 第14章 「14.2 [Follow] のWebインターフェイス まで」  
 次回は  
 URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_web_interface_for_following_and_followers
+
+## 2019/04/11
+
+やったこと 第14章 「14.2.4 [Follow] ボタン (基本編) まで」  
+次回は  
+URL https://railstutorial.jp/chapters/following_users?version=5.1#sec-a_working_follow_button_the_standard_way
